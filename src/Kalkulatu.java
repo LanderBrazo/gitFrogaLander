@@ -10,7 +10,6 @@ public class Kalkulatu {
 	}
 	
 		public int kenketa (int x, int y) {
-		x++;
 		y--;
 		return x-y;
 		
