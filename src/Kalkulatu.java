@@ -5,6 +5,8 @@ public class Kalkulatu {
 	public int gehiketa (int x, int y) {
 		x++;
 		y++;
+		x++;
+		y++;
 		return x+y;
 		
 	}
