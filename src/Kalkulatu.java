@@ -15,5 +15,11 @@ public class Kalkulatu {
 		return x-y;
 		
 	}
+		
+		public int kenketa2 (int x, int y) {
+			y++;
+		return x-y;
+		
+	}
 
 }
