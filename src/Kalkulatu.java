@@ -8,5 +8,12 @@ public class Kalkulatu {
 		return x+y;
 		
 	}
+	
+		public int kenketa (int x, int y) {
+		x++;
+		
+		return x-y;
+		
+	}
 
 }
