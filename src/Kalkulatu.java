@@ -6,6 +6,8 @@ public class Kalkulatu {
 		System.out.println("Branch1");
 		x++;
 		y++;
+		x++;
+		y++;
 		return x+y;
 		
 	}
