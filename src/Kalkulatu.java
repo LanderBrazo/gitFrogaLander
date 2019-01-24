@@ -20,6 +20,7 @@ public class Kalkulatu {
 		
 		public int kenketa2 (int x, int y, int d) {
 			y++;
+			
 			y++;
 			y++;
 			y++;
